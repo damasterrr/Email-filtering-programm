@@ -12,6 +12,7 @@ def make_Dictionary(train_dir):
     # Paste code for non-word removal here(code snippet is given below)
     return dictionary
 print("hey iPad, you hear?")
+print("hey Laptop, yeah  I see")
 
 
 
